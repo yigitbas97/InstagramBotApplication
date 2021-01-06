@@ -1,0 +1,14 @@
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\InstagramBotApplication\bin\Debug\InstagramBotApplication.exe.config
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\InstagramBotApplication\bin\Debug\InstagramBotApplication.exe
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\InstagramBotApplication\bin\Debug\InstagramBotApplication.pdb
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\InstagramBotApplication\obj\Debug\InstagramBotApplication.csprojAssemblyReference.cache
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\InstagramBotApplication\obj\Debug\InstagramBotApplication.Form1.resources
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\InstagramBotApplication\obj\Debug\InstagramBotApplication.Properties.Resources.resources
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\InstagramBotApplication\obj\Debug\InstagramBotApplication.csproj.GenerateResource.cache
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\InstagramBotApplication\obj\Debug\InstagramBotApplication.csproj.CoreCompileInputs.cache
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\InstagramBotApplication\obj\Debug\InstagramBotApplication.exe
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\InstagramBotApplication\obj\Debug\InstagramBotApplication.pdb
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\InstagramBotApplication\bin\Debug\InstaSharper.dll
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\InstagramBotApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\InstagramBotApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\InstagramBotApplication\obj\Debug\InstagramBotApplication.csproj.CopyComplete
